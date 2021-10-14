@@ -17,12 +17,12 @@ Introducing "functional arrays" – a new way to call functions.
 
 ## Background
 
-I've always been a fan of Javascript, but I've always felt there was something that just wasn't right, something just didn't resonate with me.
-After years of working with Javascript through think and thin, through difficult times, and through fun times, it finally hit me!
+Every since I can remember I have been a fan of Javascript, but recently I felt like something was missing, there was just something just didn't resonate with me.
+After years of working with Javascript through thick and thin, through difficult and fun times, it finally hit me!
 
-What Javascript (and a lot of other programming languages) is not understanding with it's narrow-minded design approach to the language is: parenthesis are evil. And far less superior to it's much more versatile cousin; the curly brackets.
+What Javascript, and a lot of other programming languages, are not understanding with it's narrow-minded and petty design approach for the language is: parenthesis are evil. And far less superior to it's much more versatile cousin; the curly brackets.
 
-This library is a start to bring back harmony into this world we Javascript developers have to live through. It's not solving all the issues sadly (see [Limitations](#limitations)), but it's a beginning of something bigger.
+This library is a start to bring back harmony into this world we Javascript developers have to live in. It's not solving all the issues sadly (see [Limitations](#limitations)), but it's a beginning of something bigger, a step towards a world we can see ourselves living in – together!
 
 ## Install
 
@@ -40,7 +40,7 @@ $ npm install --save functional-arrays
 
 ## Usage
 
-It's as simple as importing the `createArrayFunction` from the _functional-arrays_ package.
+It's as simple as importing the `createArrayFunction` from the _functional-arrays_ package and using it as follows:
 
 ```typescript
 import { createArrayFunction } from 'functional-arrays'
