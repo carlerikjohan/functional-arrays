@@ -2,7 +2,7 @@
 
 For all your array functional needs!
 
-Have you heard about functional programming and curry? Do you also detest the thoughts of those pesky parenthesis? Then you've come to the right place!
+Do you like functional programming and curry functions? Do you also detest the thought of those pesky parenthesis? Then you've come to the right place!
 
 Introducing "functional arrays" – a new way to call functions.
 
