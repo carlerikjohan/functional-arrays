@@ -49,7 +49,7 @@ const greeter = (name: string, country: string): string => {
   return `Hello ${name} from ${country}!`
 }
 
-const superAwesomeGreeter = createArrayFunction[greeter]
+const superAwesomeGreeter = createArrayFunction(greeter)
 
 const output = superAwesomeGreeter['Johan']['Sweden']
 
